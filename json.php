@@ -1,74 +1,39 @@
 {
-"title":"About Canada",
+"title":"Today's Specials:",
 "rows":[
 	{
-	"title":"Beavers",
-	"description":"Beavers are second only to humans in their ability to manipulate and change their environment. They can measure up to 1.3 metres long. A group of beavers is called a colony",
+	"title":"Vegetable Samosa",
+	"description":"A samosa (/səˈmoʊsə/) or samoosa is a fried or baked pastry with a savoury filling, such as spiced potatoes, onions, peas.",
 	"imageHref":"http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/American_Beaver.jpg/220px-American_Beaver.jpg"
 	},
 	{
-	"title":"Flag",
-	"description":null,
+	"title":"Pilau Tika",
+	"description":"Upma or Uppuma or Uppittu is a common Indian and Sri Lankan Tamil breakfast dish, cooked as a thick porridge from dry roasted semolina or coarse rice flour",
 	"imageHref":"http://images.findicons.com/files/icons/662/world_flag/128/flag_of_canada.png"
 	},
 	{
-	"title":"Transportation",
-	"description":"It is a well known fact that polar bears are the main mode of transportation in Canada. They consume far less gas and have the added benefit of being difficult to steal.",
+	"title":"Saag Paneer",
+	"description":"Saag paneer is a classic Asian dish of cooked spinach studded with cubes of fried paneer cheese. Thickened with cream or coconut milk, it's a hearty and filling vegetarian meal",
 	"imageHref":"http://1.bp.blogspot.com/_VZVOmYVm68Q/SMkzZzkGXKI/AAAAAAAAADQ/U89miaCkcyo/s400/the_golden_compass_still.jpg"
 	},
 	{
-	"title":"Hockey Night in Canada",
-	"description":"These Saturday night CBC broadcasts originally aired on radio in 1931. In 1952 they debuted on television and continue to unite (and divide) the nation each week.",
+	"title":"Chicken Tikka Masala",
+	"description":"Chicken tikka masala is a dish of roasted chunks of chicken tikka in a spicy sauce. The sauce is usually creamy, spiced and orange-coloured.",
 	"imageHref":"http://fyimusic.ca/wp-content/uploads/2008/06/hockey-night-in-canada.thumbnail.jpg"
 	},
 	{
-	"title":"Eh",
-	"description":"A chiefly Canadian interrogative utterance, usually expressing surprise or doubt or seeking confirmation.",
+	"title":"Chicken Vindaloo",
+	"description":"Vindaloo (also known as vindallo, vindalho, or vindaalo) is an Indian curry dish popular in the region of Goa, the surrounding Konkan, and many other parts of India",
 	"imageHref":null
 	},
 	{
-	"title":"Housing",
-	"description":"Warmer than you might think.",
+	"title":"Panin Puri",
+	"description":"Potato, onion, chickpeas, coriander chutney stuffed crispy puri drenched in sour and spicy mint flavored water (pudina pani) easily fills one’s mouth and takes taste buds on a journey of heaven.",
 	"imageHref":"http://icons.iconarchive.com/icons/iconshock/alaska/256/Igloo-icon.png"
 	},
 	{
-	"title":"Public Shame",
-	"description":" Sadly it's true.",
-	"imageHref":"http://static.guim.co.uk/sys-images/Music/Pix/site_furniture/2007/04/19/avril_lavigne.jpg"
-	},
-	{
-	"title":null,
-	"description":null,
-	"imageHref":null
-	},
-	{
-	"title":"Space Program",
-	"description":"Canada hopes to soon launch a man to the moon.",
-	"imageHref":"http://files.turbosquid.com/Preview/Content_2009_07_14__10_25_15/trebucheta.jpgdf3f3bf4-935d-40ff-84b2-6ce718a327a9Larger.jpg"
-	},
-	{
-	"title":"Meese",
-	"description":"A moose is a common sight in Canada. Tall and majestic, they represent many of the values which Canadians imagine that they possess. They grow up to 2.7 metres long and can weigh over 700 kg. They swim at 10 km/h. Moose antlers weigh roughly 20 kg. The plural of moose is actually 'meese', despite what most dictionaries, encyclopedias, and experts will tell you.",
-	"imageHref":"http://caroldeckerwildlifeartstudio.net/wp-content/uploads/2011/04/IMG_2418%20majestic%20moose%201%20copy%20(Small)-96x96.jpg"
-	},
-	{
-	"title":"Geography",
-	"description":"It's really big.",
-	"imageHref":null
-	},
-	{
-	"title":"Kittens...",
-	"description":"Éare illegal. Cats are fine.",
-	"imageHref":"http://www.donegalhimalayans.com/images/That%20fish%20was%20this%20big.jpg"
-	},
-	{
-	"title":"Mounties",
-	"description":"They are the law. They are also Canada's foreign espionage service. Subtle.",
-	"imageHref":"http://3.bp.blogspot.com/__mokxbTmuJM/RnWuJ6cE9cI/AAAAAAAAATw/6z3m3w9JDiU/s400/019843_31.jpg"
-	},
-	{
-	"title":"Language",
-	"description":"Nous parlons tous les langues importants.",
+	"title":"Dahi Purika",
+	"description":"The round, hard, puffy puri shell is first broken on top and partially filled with the main stuffing of mashed potatoes or chickpeas. A small amount of haldi powder or chilli powder, or both, may be added for taste, as well as a pinch of salt.",
 	"imageHref":null
 	}
 ]
